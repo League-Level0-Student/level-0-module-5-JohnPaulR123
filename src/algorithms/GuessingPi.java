@@ -13,11 +13,11 @@ public static void main(String[] args) {
 
 		// 2. Make a String variable to hold the value of Pi.
 		//    Get the first few digits from http://www.piday.org/million/.
-
+String pi="3.14";
 		// 3. Print out the first 3 digits of Pi to the console.
 		//    The first value is "pi.charAt(0)", the second is "pi.charAt(1)", etc.
 		//    Run your program to see how this works.
-System.out.println(3.14);
+System.out.println(pi);
 		// 9. If you want to give the user more than one chance to guess,
 		//    put a for loop around steps 4-8.
 
